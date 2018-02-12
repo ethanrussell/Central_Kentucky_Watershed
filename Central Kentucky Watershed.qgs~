@@ -97,7 +97,7 @@
       </filegroup>
     </legendlayer>
   </legend>
-  <Composer title="Central_KY_watershed" visible="1">
+  <Composer title="Central_KY_watershed" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{01b90f9b-dd40-42d3-8491-b8b6aa93b4af}" alignmentSnap="1" printResolution="300" paperWidth="762" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="1" paperHeight="381" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
